@@ -15,7 +15,7 @@ def calculate_population(bacteria_strain,initial_state, days):
         reset_to_three = bacteria_in_state[0]
 
         # Cambia los estados.
-        bacteria_in_state[0:4] = bacteria_in_state[1:5]
+        #bacteria_in_state[0:4] = bacteria_in_state[1:5]
         bacteria_in_state[0:bacteria_strain.life_expectancy] = bacteria_in_state[1:bacteria_strain.life_expectancy + 1]
         # Actualice el estado 3 y 4.
         bacteria_in_state[state_adult] += reset_to_three
