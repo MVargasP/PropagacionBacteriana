@@ -7,7 +7,7 @@ Este es un proyecto Django que calcula la propagación de una bacteria basada en
 Sigue los siguientes pasos para instalar y ejecutar el proyecto:
 
 1. Clona el repositorio:
-git clone https://github.com/<your-username>/kwema.git
+git clone https://github.com/MVargasP/PropagacionBacteriana.git
 
 
 2. Navega hasta la carpeta del proyecto:
